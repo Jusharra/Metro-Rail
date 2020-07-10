@@ -1,0 +1,238 @@
+﻿body 
+{   font: 13px/22px Helvetica, Arial, sans-serif;   
+    background: #fffff0 url("purple-background.jpg") repeat;
+}
+
+button
+{
+    border-color: #ffd700;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: #fff;
+    background-color: #fed136;
+
+}
+
+.box_corner
+{
+    padding: 4px;
+ border: solid 6px #ffd700;
+ -moz-box-shadow: 0 0 0 6px #fff;
+ -webkit-box-shadow: 0 0 0 6px #fff;
+ box-shadow: 0 0 0 6px #fff; 
+ width: 369px; 
+ margin: 8px;
+ -moz-border-radius: 6px;
+ -webkit-border-radius: 6px;
+ border-radius: 6px;
+ background: white;
+}
+.footer_section
+ {
+    padding: 4px;
+    border: solid 6px #ffd700;
+    -moz-box-shadow: 0 0 0 6px #fff;
+    -webkit-box-shadow: 0 0 0 6px #fff;
+    box-shadow: 0 0 0 6px #fff; 
+    width: 369px; 
+    margin: 8px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    background: white;
+}
+.carousel-slide
+{
+
+}
+
+.double-border-logo
+{
+ padding: 4px;
+ border: solid 6px #ffd700;
+ -moz-box-shadow: 0 0 0 6px #fff;
+ -webkit-box-shadow: 0 0 0 6px #fff;
+ box-shadow: 0 0 0 6px #fff;
+ float:left;
+ margin-left: 8px;
+ margin-right:8px;
+ margin-top:8px;
+ margin-bottom:25px;
+ -moz-border-radius: 6px;
+ -webkit-border-radius: 6px;
+ border-radius: 6px;
+ background: white;
+    height: 297px;
+    width: 375px;
+}
+
+
+.double-border-content
+{
+ padding: 4px;
+ border: solid 6px #ffd700;
+ -moz-box-shadow: 0 0 0 6px #fff;
+ -webkit-box-shadow: 0 0 0 6px #fff;
+ box-shadow: 0 0 0 6px #fff; 
+ width: 369px; 
+ margin: 8px;
+ -moz-border-radius: 6px;
+ -webkit-border-radius: 6px;
+ border-radius: 6px;
+ background: white;
+}
+
+
+.double-border-item
+{
+ padding: 8px;
+ border: solid 6px #ffd700;
+ -moz-box-shadow: 0 0 0 6px #fff;
+ -webkit-box-shadow: 0 0 0 6px #fff;
+ box-shadow: 0 0 0 6px #fff;
+ float: left;
+ margin: 8px;
+ -moz-border-radius: 6px;
+ -webkit-border-radius: 6px;
+ border-radius: 6px;
+ background: white;
+}
+
+
+
+
+.double-border
+{
+ padding: 8px;
+ border: solid 6px #ffd700;
+ -moz-box-shadow: 0 0 0 6px #fff;
+ -webkit-box-shadow: 0 0 0 6px #fff;
+ box-shadow: 0 0 0 6px #fff;
+ width: 200px;
+ float: left;
+ margin: 8px;
+ -moz-border-radius: 6px;
+ -webkit-border-radius: 6px;
+ border-radius: 6px;
+ background: white;
+}
+
+.ticket_container_items
+{
+     float:left;
+    margin-left:25px;
+}
+.ticket_container_qr
+{
+    float:left;
+    margin-left:25px;
+    border: 4px solid #ffd700;
+    padding:10px 10px 10px 10px;
+    width:225px;
+    text-align:center;
+}
+.ticket_container_instructions
+{
+    float:left;
+    margin-left:25px;
+    border: 4px solid #ffd700;
+    width:400px;
+}
+.ticket_qr
+{
+    height: 200px;
+    width: 200px;
+
+}
+.make_red
+{
+    color:Red;
+}
+.orderticket_container_product
+{
+    float:left;
+   
+    width:auto;
+}
+
+
+
+.centerit
+{   
+    margin: 0 auto;
+    width: 900px;
+ }
+ 
+ .airport
+ {
+     font: 22px Helvetica, Arial, sans-serif;
+ }
+ .category
+ {
+    font: 20px Helvetica, Arial, sans-serif;   
+ }
+ .offertitle
+ {
+     font: 18px Helvetica, Arial, sans-serif; text-decoration:none;
+ }
+ .offerdeal
+ {
+     font: 18px Helvetica, Arial, sans-serif; color:red;
+ }
+ .offerimg
+ {
+ }
+ .offerdescription
+ {
+ }
+ a
+ {
+     text-decoration:none;color:Blue;
+ }
+
+
+
+ .demo-container {
+    max-width: 960px;
+    min-width: 312px;
+}
+ 
+.imageHeaderWrapper {
+    overflow: hidden;
+}
+ 
+.imageHeader {
+    margin-left: 2px;
+}
+ 
+.degreesWrapper {
+    font-size: 30px;
+}
+ 
+.weatherText {
+    font-size: 14px;
+}
+ 
+.liveTileTitle {
+    width: 300px;
+    height: 30px;
+    color: #fff;
+    font-size: 12px;
+    background-image: url(../../images/Tiles/LiveTile_bg.png);
+    background-repeat: repeat;
+    padding: 10px;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+ 
+.weatherIcon {
+    margin-top: 40px;
+    margin-left: 60px;
+}
+ 
+.weatherInforWrapper {
+    padding: 25px;
+    float: right;
+}
